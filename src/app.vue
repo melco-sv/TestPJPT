@@ -1,0 +1,12 @@
+<script setup lang="ts">
+useHead({
+  titleTemplate: title => (title ? `${title} | Nuxt Portal` : 'Nuxt Portal'),
+  link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+})
+</script>
+
+<template>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
+</template>

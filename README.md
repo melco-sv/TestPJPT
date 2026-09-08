@@ -117,5 +117,4 @@ use the framework naming instead of the singular form in the brief.
 
 The project runs on StackBlitz as is; `.stackblitzrc` installs the dependencies and starts
 `npm run dev`. Push this folder to a repository and open it with
-`https://stackblitz.com/github/<user>/<repo>`, or drag the folder into a blank Node project on
-stackblitz.com.
+`(https://stackblitz.com/github/melco-sv/TestPJPT)`.
